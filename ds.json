@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin",
+      "password": "1",
+      "token": "Mmklkxzn123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "staff@gmail.com",
+      "password": "123456",
+      "token": "ACwsasasa234vf",
+      "role": "staff"
+    },
+    {
+      "id": 3,
+      "email": "nguyenvana@gmail.com",
+      "password": "123456",
+      "token": "ACwC123ASJCZAmbm",
+      "role": "customer"
+    },
+    {
+      "id": 4,
+      "email": "nguyenvanb@gmail.com",
+      "password": "123456",
+      "token": "ACwsasasa234vf",
+      "role": "customer"
+    },
+    {
+      "email": "duongboyyy@gmail.com",
+      "password": "123456",
+      "token": "0YXxz5EaMvtO13OAyHnf",
+      "role": "customer",
+      "id": 5
+    },
+    {
+      "email": "chieudinhvu@gmail.com",
+      "password": "123333",
+      "token": "plypnL0DyGIAFROlWbgt",
+      "role": "customer",
+      "id": 6
+    }
+  ],
+  "infocustomer": [
+    {
+      "id": 1,
+      "accountid": "3",
+      "image": "https://robohash.org/hicveldicta.png",
+      "name": "Nguễn Văn A",
+      "gender": "Nam",
+      "birth": "21/02/2003",
+      "phone": "0177051355",
+      "address": "Hà Nội",
+      "cccd": "035222678999",
+      "email": "nguyenvana@gmail.com",
+      "job": "teacher",
+      "religion": "Kinh",
+      "hometown": "Hà Nội",
+      "note": "..."
+    },
+    {
+      "id": 2,
+      "accountid": "4",
+      "image": "https://robohash.org/consequunturautconsequatur.png",
+      "name": "Hoàng Mạnh Chiến",
+      "gender": "Nữ",
+      "birth": "2023-11-13T02:35:55.548Z",
+      "phone": "1",
+      "address": "Bình Định",
+      "email": "1",
+      "cccd": "ádasd",
+      "job": "1",
+      "religion": "ádasd",
+      "hometown": "Bà Rịa - Vũng Tàu",
+      "note": "433434"
+    },
+    {
+      "id": 3,
+      "accountid": "5",
+      "image": "https://robohash.org/doloremquesintcorrupti.png",
+      "name": "Trần Công Đại Dương",
+      "gender": "Nam",
+      "birth": "21/02/2003",
+      "phone": "0788041959",
+      "address": "Hà Nội",
+      "email": "nguyenvanb@gmail.com",
+      "cccd": "035203000299",
+      "job": "King of Gamble",
+      "religion": "Kinh",
+      "hometown": "Ninh Bình",
+      "note": "..."
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "idcustomer": "1",
+      "name": "Nguễn Văn A",
+      "title": "Yêu cầu 1",
+      "description": "Lorem..........................................................",
+      "time": "11/6/2023",
+      "image": "https://robohash.org/hicveldicta.png",
+      "video": "https://youtu.be/r7WaK3uR7aQ",
+      "response": {
+        "title": "Trả lời 1",
+        "description": "Testssssssssss response",
+        "email": "",
+        "image": "https://robohash.org/hicveldicta.png",
+        "video": "https://youtu.be/r7WaK3uR7aQ",
+        "time": "11/6/2023"
+      }
+    },
+    {
+      "title": "sffsdsafdsdafn,sda",
+      "description": "sdfsdafsdf",
+      "idcustomer": 3,
+      "time": "2023-11-08T02:30:13.346Z",
+      "name": "Trần Công Đại Dương",
+      "id": 7,
+      "response": {}
+    },
+    {
+      "title": "ajkadakjds",
+      "description": "jsnđsknskjdfnsjkdfn",
+      "idcustomer": 3,
+      "time": "2023-11-08T02:30:13.346Z",
+      "name": "Trần Công Đại Dương",
+      "id": 8,
+      "response": {
+        "title": "sdasd",
+        "description": "ádasd",
+        "time": "2023-11-09T06:02:01.602Z",
+        "email": "staff@gmail.com"
+      }
+    },
+    {
+      "title": "ádasd",
+      "description": "ádasdasda",
+      "idcustomer": 1,
+      "time": "2023-11-09T16:38:06.476Z",
+      "name": "Nguễn Văn A",
+      "email": "nguyenvana@gmail.com",
+      "response": "",
+      "id": 9
+    },
+    {
+      "title": "Hỗ trợ tôi",
+      "description": "Hướng dẫn tôi sử dụng phần mềm ",
+      "idcustomer": 1,
+      "time": "2023-11-09T16:38:50.883Z",
+      "name": "Nguễn Văn A",
+      "email": "nguyenvana@gmail.com",
+      "response": "",
+      "id": 10
+    }
+  ]
+}
